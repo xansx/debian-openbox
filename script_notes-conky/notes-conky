@@ -4,9 +4,6 @@ filenote=$HOME/.notes_conky.txt
 
 fileconky=$HOME/.config/conky/shortcuts.conkyrc
 
-#subl $filenote
-#read -p "press Enter"
-
 vim $filenote
 
 while [[ $(tail -n 1 $fileconky) != '${hr}' ]]
