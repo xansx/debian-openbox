@@ -22,7 +22,7 @@ if [ -f "$wp_base/wallpapers-alinz/wp-rotate.png" ]; then
 	wp_default="wp-rotate.png"
 else
 	wp_dir="wallpapers-pack1"
-	wp_default="bl-colorful-aptenodytes-forsteri-by-nixiepro.png"
+	wp_default="wallhaven-kw2rp7.jpg"
 fi
 
 # Install nitrogen
