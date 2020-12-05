@@ -26,11 +26,13 @@ The main script `install` can exec all scripts or only a select list:
 
 <img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/79147593-764c5f00-7dc4-11ea-9ca2-f2569260928f.png"> <img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/79147594-76e4f580-7dc4-11ea-9f2c-56376bd9e6fa.png">
 
-<img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/79147600-777d8c00-7dc4-11ea-9e01-f3d072fa8961.png"> <img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/79166592-cbe53380-7de5-11ea-8a62-e88f10d6b2a0.png">
+<img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/79147600-777d8c00-7dc4-11ea-9e01-f3d072fa8961.png"> <img align="center" width="450" src="https://user-images.githubusercontent.com/32820131/81058996-de77f780-8ecf-11ea-9ec0-aa089c637c8a.png">
 
 &nbsp; 
 ## Install
-  * Install Debian 10 netinstall (better don't install `Debian desktop environment`, install only `standard system utilities`).
+  * Install Debian 10 netinstall. Its recommended don't install `Debian desktop environment`, install only `standard system utilities`.
+<img align="center" width="700" src="https://user-images.githubusercontent.com/32820131/101158317-d467d400-362b-11eb-8759-9d3beb40a20c.png">
+  
   * Connect to Internet. If you need to connect to WIFI network in CLI you can do:
   ```
   ip a                                            # To get your wlan interface name, mine is wlp5s0
