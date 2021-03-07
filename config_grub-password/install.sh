@@ -1,7 +1,7 @@
 #!/bin/bash
 # ACTION: Config GRUB with password protection for prevent users edit entries
 # INFO: By default everyone can edit GRUB entries during boot time and login with root privileges
-# DEFAULT: n
+# DEFAULT: y
 
 # Config variables
 comment_mark="#DEBIAN-OPENBOX"
